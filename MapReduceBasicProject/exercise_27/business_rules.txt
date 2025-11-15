@@ -1,0 +1,8 @@
+Gender=M andYearOfBirth=1934 -> Category#1
+Gender=M andYearOfBirth=1956 -> Category#3
+Gender=F andYearOfBirth=1934 -> Category#2
+Gender=F andYearOfBirth=1956 -> Category#3
+
+
+
+

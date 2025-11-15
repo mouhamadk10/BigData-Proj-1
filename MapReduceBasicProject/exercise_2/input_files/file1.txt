@@ -1,0 +1,2 @@
+Test of the word count program
+The word program is the Hadoop hello word program
